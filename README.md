@@ -1,0 +1,2 @@
+## Serialization and Deserialization in Java
+You can read from [here](https://medium.com/@mmertkaragoz/serialization-and-deserialization-in-java-2c74ca1cc6e3) and also you can reach the code from [here](https://github.com/MMKaragoz/medium-writing-source-codes/tree/main/java-serialization-and-deserialization)
